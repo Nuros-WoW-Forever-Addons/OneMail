@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: OneMail
+## Notes: Automatically populates the Send Mail subject with the first attached item name or "Money" when sending currency.
+## Author: Antigravity
+## Version: 0.2.0
+## IconTexture: Interface\Icons\INV_Letter_15
+## SavedVariables: OneMailDB
+## OptionalDeps: OneSwatter, OnePanelUtils
+
+Core.lua
+OptionsUI.lua
